@@ -4,7 +4,7 @@ This repository contains all the material related to the master's thesis by **Ch
 
 ## Repository Contents
  
-- **Thesis Document**: The full thesis in PDF or LaTeX format.  
+- **Thesis Document**: The full thesis in PDF format.  
 
 ## About the Author
 
